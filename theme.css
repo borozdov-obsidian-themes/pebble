@@ -377,6 +377,10 @@ body {
 
 body {
   --table-border-width: 1px;
+  --table-column-first-border-width: 0;
+  --table-column-last-border-width: 0;
+  --table-header-border-width: 0;
+  --table-row-last-border-width: 0;
   --table-border-color: var(--edge);
   --table-header-background: var(--sand);
   --table-header-background-hover: var(--hover);
