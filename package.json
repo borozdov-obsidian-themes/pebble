@@ -1,0 +1,17 @@
+{
+  "name": "borozdov-pebble",
+  "private": true,
+  "description": "An editorial broadsheet on warm stone: a grey parchment canvas, white paper cards, a serif display voice, spaced sans body text, pill controls and zero shadows.",
+  "license": "MIT",
+  "scripts": {
+    "fonts": "python3 scripts/embed-fonts.py",
+    "lint": "stylelint theme.css",
+    "build": "node scripts/build.mjs",
+    "screenshots": "python3 scripts/screenshots.py"
+  },
+  "devDependencies": {
+    "lucide-static": "^1.47.0",
+    "stylelint": "^17.0.0",
+    "stylelint-config-obsidianmd": "^0.1.0"
+  }
+}
