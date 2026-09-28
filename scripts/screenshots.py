@@ -160,7 +160,7 @@ hairline, 8px corners, no shadow, and the title in the type's colour.</p></div>
 {callout("success", "check", "Done", "Moss for what is finished.")}
 {callout("warning", "triangle-alert", "Heads up", "Amber for what needs a look, red for real trouble.")}
 <div class="el-blockquote"><blockquote dir="auto"><p>Close the books, then close the laptop.</p></blockquote></div>
-{table(["Face", "Role"], ["Merriweather 400", "Title, the two largest headings, quotes"], ["Sans 400", "Body text, tracked open"], ["Sans 500", "Labels, buttons and tags"])}
+{table(["Face", "Role"], ["Pebble Serif 400", "Title, the two largest headings, quotes"], ["Sans 400", "Body text, tracked open"], ["Sans 500", "Labels, buttons and tags"])}
 """
 
 NOTE_RU = f"""

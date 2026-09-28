@@ -27,9 +27,9 @@ House rules:
   literal.
 - Stone for the chrome, white paper for the note, sand for panels; ink fills, moss only
   for links and the highlighter. Body text keeps its positive tracking, every control is a
-  pill, and nothing casts a shadow. The only embedded font is Merriweather Regular (the
-  title, the two largest headings and quotes): `fonts/*.woff2` are written into
-  `theme.css` by `npm run fonts`.
+  pill, and nothing casts a shadow. The only embedded font is Pebble Serif Regular, a
+  renamed subset of Merriweather Regular (the title, the two largest headings and quotes):
+  `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 

@@ -1,3 +1,6 @@
+Pebble Serif is a modified version of Merriweather: a Latin and Cyrillic subset, renamed
+because the original carries a Reserved Font Name.
+
 Copyright 2020 The Merriweather Project Authors (https://github.com/SorkinType/Merriweather/), with Reserved Font Name "Merriweather".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

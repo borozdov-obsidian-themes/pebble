@@ -14,7 +14,7 @@ spaced sans body text, pill controls and zero shadows.
 - **Paper on stone.** The side panels, tab bars and status bar are warm stone; the note is
   a white sheet laid on top, its edge the tab bar's outline. Panels inside the sheet are
   sand. Nothing casts a shadow — depth is a tonal shift and a hairline.
-- **Serif against sans.** Merriweather announces the title and the two largest headings
+- **Serif against sans.** Pebble Serif announces the title and the two largest headings
   like pull-quotes; the platform's own sans carries the text with positive tracking, the
   editorial voice of the system.
 - **Austere colour.** Ink fills a checked task, a toggle and the main button. Moss, a data
@@ -47,10 +47,11 @@ Settings → Appearance → Themes.
 
 ## Font
 
-Merriweather Regular (© 2020 The Merriweather Project Authors, Reserved Font Name
-"Merriweather") is embedded in `theme.css` as base64 WOFF2 under the SIL Open Font
-License 1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). One weight, Latin and Cyrillic, for
-the title, the two largest headings and pull quotes only.
+Pebble Serif is embedded in `theme.css` as base64 WOFF2 under the SIL Open Font License
+1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). It is a Latin and Cyrillic subset of
+Merriweather (© 2020 The Merriweather Project Authors), renamed because a modified copy
+may not use the original's Reserved Font Name. One weight, for the title, the two largest
+headings and pull quotes only.
 
 ## License
 
@@ -60,6 +61,6 @@ MIT — see [LICENSE](LICENSE).
 
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Пасмурно» — газетная полоса
 на тёплом камне, и тёмный «Базальт» — та же полоса после заката. Серый каменный холст для
-интерфейса, белый бумажный лист для заметки, заголовки с засечками (Merriweather),
+интерфейса, белый бумажный лист для заметки, заголовки с засечками (Pebble Serif),
 разреженный текст, кнопки-пилюли и ни одной тени. Устанавливается из каталога: Настройки →
 Оформление → Темы → Настроить → Borozdov Pebble → Установить и применить.
