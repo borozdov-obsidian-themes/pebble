@@ -37,10 +37,14 @@ spaced sans body text, pill controls and zero shadows.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Pebble**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Ember**. Install Borozdov Ember under Settings → Appearance → Themes → Manage, then the
+[Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and choose
+**Pebble** under Style Settings → Borozdov Ember → Variant. The variant brings this
+theme's palette, type and corners; its own layout, and its embedded font if it has one,
+come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/pebble/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Pebble/`, then choose Borozdov Pebble under
 Settings → Appearance → Themes.
@@ -62,5 +66,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Пасмурно» — газетная полоса
 на тёплом камне, и тёмный «Базальт» — та же полоса после заката. Серый каменный холст для
 интерфейса, белый бумажный лист для заметки, заголовки с засечками (Pebble Serif),
-разреженный текст, кнопки-пилюли и ни одной тени. Устанавливается из каталога: Настройки →
-Оформление → Темы → Настроить → Borozdov Pebble → Установить и применить.
+разреженный текст, кнопки-пилюли и ни одной тени. В каталоге тема живёт вариантом Borozdov Ember: установите Borozdov Ember и плагин Style Settings, затем выберите Pebble в Style Settings → Borozdov Ember → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
